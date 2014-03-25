@@ -1,0 +1,9 @@
+C:\Users\zsen\Desktop\project1\project1\bin\Release\project1.exe.config
+C:\Users\zsen\Desktop\project1\project1\bin\Release\project1.exe
+C:\Users\zsen\Desktop\project1\project1\bin\Release\project1.pdb
+C:\Users\zsen\Desktop\project1\project1\obj\Release\project1.frmBranchSales.resources
+C:\Users\zsen\Desktop\project1\project1\obj\Release\project1.frmBranchList.resources
+C:\Users\zsen\Desktop\project1\project1\obj\Release\project1.Properties.Resources.resources
+C:\Users\zsen\Desktop\project1\project1\obj\Release\project1.csproj.GenerateResource.Cache
+C:\Users\zsen\Desktop\project1\project1\obj\Release\project1.exe
+C:\Users\zsen\Desktop\project1\project1\obj\Release\project1.pdb

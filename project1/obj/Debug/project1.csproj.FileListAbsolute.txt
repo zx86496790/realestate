@@ -1,0 +1,10 @@
+C:\Users\zsen\Desktop\project1\project1\bin\Debug\project1.exe.config
+C:\Users\zsen\Desktop\project1\project1\bin\Debug\project1.exe
+C:\Users\zsen\Desktop\project1\project1\bin\Debug\project1.pdb
+C:\Users\zsen\Desktop\project1\project1\obj\Debug\project1.csprojResolveAssemblyReference.cache
+C:\Users\zsen\Desktop\project1\project1\obj\Debug\project1.frmBranchSales.resources
+C:\Users\zsen\Desktop\project1\project1\obj\Debug\project1.Properties.Resources.resources
+C:\Users\zsen\Desktop\project1\project1\obj\Debug\project1.csproj.GenerateResource.Cache
+C:\Users\zsen\Desktop\project1\project1\obj\Debug\project1.exe
+C:\Users\zsen\Desktop\project1\project1\obj\Debug\project1.pdb
+C:\Users\zsen\Desktop\project1\project1\obj\Debug\project1.frmBranchList.resources
